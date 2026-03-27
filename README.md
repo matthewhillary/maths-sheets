@@ -1,8 +1,8 @@
 # maths-sheets
 
-Add .qmd files in /worksheets and they will appear on (this website)[https://matthewhillary.github.io/maths-sheets/worksheets/] after the push the changes in github.
+Add .qmd files in /worksheets and they will appear on [this website](https://matthewhillary.github.io/maths-sheets/worksheets/) after you push the changes to GitHub.
 
-To update I'd recommend opening the repo in a code space (see the green code button if you are in the repo) and then asking the chat for the type of maths worksheet you want.  After it's updated you can commit and sync the change and in a couple of minutes it should appear at the website.
+To update I'd recommend opening the repo in a code space (see the green code button if you are in the repo) and then asking the chat for the type of maths worksheet you want. After it's updated you can commit and sync the change and in a couple of minutes it should appear at the website.
 
 ## Worksheet authoring guide for the agent
 
