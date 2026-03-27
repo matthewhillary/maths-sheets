@@ -1,5 +1,7 @@
 # maths-sheets
 
+Add .qmd files in /worksheets and they will appear on [this website](https://matthewhillary.github.io/maths-sheets/worksheets/) after the push the changes in github.
+
 ## Worksheet authoring guide for the agent
 
 When adding new worksheets, follow these rules:
