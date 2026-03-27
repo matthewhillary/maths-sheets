@@ -1,0 +1,13 @@
+---
+title: Maths Sheets
+---
+
+# Maths Sheets
+
+Collection of auto-generated math worksheets for tutoring.
+
+## Latest Worksheets
+
+Browse all available worksheets below, sorted by date. Print directly from your browser using **Ctrl+P** (or **Cmd+P** on Mac).
+
+[View All Worksheets →](worksheets/)

@@ -1,0 +1,5 @@
+_site/
+.quarto/
+*.pdf
+.DS_Store
+.Rproj.user/

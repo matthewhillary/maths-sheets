@@ -1,0 +1,31 @@
+# Algebra I: Chapter 1 Quiz
+
+---
+
+### Part A: Simplifying Expressions
+1.  Simplify: $3(x + 5) - 2(2x - 1)$
+2.  Simplify: $\frac{12a^{2}b}{4ab}$
+3.  Combine terms: $5y^{2} + 3y - 2(y^{2} - y)$
+
+---
+
+### Part B: Solving Equations
+4.  Solve for $x$: 
+    $$4x - 7 = 13$$
+5.  Solve for $w$: 
+    $$2(w + 4) = 5w - 1$$
+6.  Solve for $x$: 
+    $$\frac{x}{3} + 5 = 11$$
+
+---
+
+### Part C: Inequalities & Factoring
+7.  Solve: $3z + 4 \leq 19$
+8.  Factor completely: 
+    $$x^{2} + 5x + 6$$
+
+---
+
+### Part D: Word Problem
+9.  A taxi service charges a flat fee of $5.00 plus $2.50 per mile ($m$). If the total bill was $25.00, write and solve the equation:
+    $$5 + 2.50m = 25$$
