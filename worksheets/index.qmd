@@ -14,3 +14,5 @@ listing:
 Browse all available worksheets below, sorted by date. Click on any title to view the full worksheet.
 
 **To print:** Open the worksheet and use **Ctrl+P** (or **Cmd+P** on Mac) to print to PDF or paper.
+
+To update the site see https://github.com/matthewhillary/maths-sheets.
