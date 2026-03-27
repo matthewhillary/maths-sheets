@@ -1,0 +1,7 @@
+# Basic Trigonometry Problems
+
+1. Find the sine, cosine, and tangent of 30 degrees.
+2. What is the value of sin(45 degrees)?
+3. Calculate tan(60 degrees).
+4. If sin(θ) = 0.5, what is the value of θ in degrees?
+5. Solve for x: sin(x) = 0.75.
