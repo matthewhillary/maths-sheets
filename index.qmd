@@ -2,7 +2,8 @@
 title: Maths Sheets
 listing:
   contents: "worksheets/*.qmd"
-  exclude: ["worksheets/index.qmd"]
+  exclude:
+    - path: "worksheets/index.qmd"
   type: table
   fields: [title, date, categories]
   date-format: "YYYY-MM-DD"
