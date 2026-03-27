@@ -1,0 +1,33 @@
+/* Print-friendly styles */
+@media print {
+  body { 
+    margin: 0; 
+    background: white;
+  }
+  .navbar { 
+    display: none; 
+  }
+  .quarto-sidebar {
+    display: none;
+  }
+  .container { 
+    max-width: 100%; 
+    padding: 0;
+  }
+  .quarto-title-block {
+    margin-bottom: 1em;
+  }
+  h1 {
+    page-break-after: avoid;
+  }
+  h2 {
+    page-break-after: avoid;
+  }
+}
+
+/* Dark math rendering in print */
+@media print {
+  .math {
+    color: black;
+  }
+}
