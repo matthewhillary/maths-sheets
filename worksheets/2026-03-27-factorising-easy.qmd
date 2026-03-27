@@ -1,0 +1,41 @@
+---
+title: Algebra I - Easy Factorising Sheet
+date: 2026-03-27
+categories: [algebra]
+---
+
+# Algebra I: Easy Factorising Practice
+
+---
+
+### Part A: Factorising Quadratics (Simple)
+1. Factorise: $x^{2} + 7x + 10$
+2. Factorise: $x^{2} + 4x - 12$
+3. Factorise: $x^{2} - 6x + 9$
+
+---
+
+### Part B: Common Factor
+4. Factorise: $6x + 15$
+5. Factorise: $8a^{2} - 12a$
+6. Factorise: $5y^{3} - 20y^{2}$
+
+---
+
+### Part C: Difference of Squares + Grouping
+7. Factorise: $x^{2} - 16$
+8. Factorise: $9m^{2} - 25$
+9. Factorise: $x^{2} + 5x + 6 - (x + 2)$
+
+---
+
+### Bonus (Optional): Check your answers
+- $x^{2} + 7x + 10 = (x + 2)(x + 5)$
+- $x^{2} + 4x - 12 = (x + 6)(x - 2)$
+- $x^{2} - 6x + 9 = (x - 3)^{2}$
+- $6x + 15 = 3(2x + 5)$
+- $8a^{2} - 12a = 4a(2a - 3)$
+- $5y^{3} - 20y^{2} = 5y^{2}(y - 4)$
+- $x^{2} - 16 = (x - 4)(x + 4)$
+- $9m^{2} - 25 = (3m - 5)(3m + 5)$
+- $x^{2} + 5x + 6 - (x + 2) = (x + 2)(x + 3) - (x + 2) = (x + 2)(x + 2)$
