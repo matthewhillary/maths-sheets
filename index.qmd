@@ -1,13 +1,19 @@
 ---
 title: Maths Sheets
+listing:
+  contents: "worksheets/*.qmd"
+  exclude: "worksheets/index.qmd"
+  type: table
+  fields: [title, date, categories]
+  date-format: "YYYY-MM-DD"
+  sort: 
+    - date desc
 ---
 
 # Maths Sheets
 
 Collection of auto-generated math worksheets for tutoring.
 
-## Latest Worksheets
+Browse all available worksheets below, sorted by date. Click on any title to view the full worksheet.
 
-Browse all available worksheets below, sorted by date. Print directly from your browser using **Ctrl+P** (or **Cmd+P** on Mac).
-
-[View All Worksheets →](worksheets/)
+**To print:** Open the worksheet and use **Ctrl+P** (or **Cmd+P** on Mac) to print to PDF or paper.
