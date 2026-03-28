@@ -7,7 +7,9 @@ website:
   repo-url: https://github.com/matthewhillary/maths-sheets
   repo-actions: [source]
   page-footer: 
-    left: "[← Back to Home](index.qmd)"
+    left: 
+      - text: "← Back to Home"
+        href: index.qmd
 
 format:
   html:
