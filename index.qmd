@@ -2,8 +2,6 @@
 title: Maths Sheets
 listing:
   contents: "worksheets/*.qmd"
-  exclude:
-    - path: "worksheets/index.qmd"
   type: table
   fields: [title, date, categories]
   date-format: "YYYY-MM-DD"
@@ -11,10 +9,6 @@ listing:
     - date desc
 ---
 
-# Maths Sheets
-
-Collection of auto-generated math worksheets for tutoring.
-
 Browse all available worksheets below, sorted by date. Click on any title to view the full worksheet.
 
-**To print:** Open the worksheet and use **Ctrl+P** (or **Cmd+P** on Mac) to print to PDF or paper.
+**To print:** Open the worksheet and use **Ctrl+P** to print to PDF or paper.
