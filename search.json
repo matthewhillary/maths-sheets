@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Maths Sheets",
     "section": "",
-    "text": "Maths Sheets\nCollection of auto-generated math worksheets for tutoring.\nBrowse all available worksheets below, sorted by date. Click on any title to view the full worksheet.\nTo print: Open the worksheet and use Ctrl+P (or Cmd+P on Mac) to print to PDF or paper.\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\nCategories\n\n\n\n\n\n\n\n\nWorksheets\n\n\n \n\n\n \n\n\n\n\n\n\nAlgebra I - Chapter 1 Quiz\n\n\n2026-03-27\n\n\nalgebra\n\n\n\n\n\n\nAlgebra I - Easy Factorising Sheet\n\n\n2026-03-27\n\n\nalgebra\n\n\n\n\n\n\nNo matching items"
+    "text": "Browse all available worksheets below, sorted by date. Click on any title to view the full worksheet.\nTo print: Open the worksheet and use Ctrl+P to print to PDF or paper.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\nCategories\n\n\n\n\n\n\n\n\nAlgebra I - Chapter 1 Quiz\n\n\n2026-03-27\n\n\nalgebra\n\n\n\n\n\n\nAlgebra I - Easy Factorising Sheet\n\n\n2026-03-27\n\n\nalgebra\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "worksheets/2026-03-27-factorising-easy.html",
@@ -12,13 +12,6 @@
     "title": "Algebra I - Easy Factorising Sheet",
     "section": "",
     "text": "Algebra I: Easy Factorising Practice\n\n\nPart A: Factorising Quadratics (Simple)\n\nFactorise: \\(x^{2} + 7x + 10\\)\nFactorise: \\(x^{2} + 4x - 12\\)\nFactorise: \\(x^{2} - 6x + 9\\)\n\n\n\n\nPart B: Common Factor\n\nFactorise: \\(6x + 15\\)\nFactorise: \\(8a^{2} - 12a\\)\nFactorise: \\(5y^{3} - 20y^{2}\\)\n\n\n\n\nPart C: Difference of Squares + Grouping\n\nFactorise: \\(x^{2} - 16\\)\nFactorise: \\(9m^{2} - 25\\)\nFactorise: \\(x^{2} + 5x + 6 - (x + 2)\\)\n\n\n\n\nBonus (Optional): Check your answers\n\n\\(x^{2} + 7x + 10 = (x + 2)(x + 5)\\)\n\\(x^{2} + 4x - 12 = (x + 6)(x - 2)\\)\n\\(x^{2} - 6x + 9 = (x - 3)^{2}\\)\n\\(6x + 15 = 3(2x + 5)\\)\n\\(8a^{2} - 12a = 4a(2a - 3)\\)\n\\(5y^{3} - 20y^{2} = 5y^{2}(y - 4)\\)\n\\(x^{2} - 16 = (x - 4)(x + 4)\\)\n\\(9m^{2} - 25 = (3m - 5)(3m + 5)\\)\n\\(x^{2} + 5x + 6 - (x + 2) = (x + 2)(x + 3) - (x + 2) = (x + 2)(x + 2)\\)"
-  },
-  {
-    "objectID": "worksheets/index.html",
-    "href": "worksheets/index.html",
-    "title": "Worksheets",
-    "section": "",
-    "text": "All Worksheets\nBrowse all available worksheets below, sorted by date. Click on any title to view the full worksheet.\nTo print: Open the worksheet and use Ctrl+P (or Cmd+P on Mac) to print to PDF or paper.\nTo update the site see https://github.com/matthewhillary/maths-sheets.\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\nCategories\n\n\n\n\n\n\n\n\nAlgebra I - Chapter 1 Quiz\n\n\n2026-03-27\n\n\nalgebra\n\n\n\n\n\n\nAlgebra I - Easy Factorising Sheet\n\n\n2026-03-27\n\n\nalgebra\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "worksheets/2026-03-27-algebra-chapter-1.html",
