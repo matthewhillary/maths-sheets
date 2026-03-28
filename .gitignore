@@ -8,3 +8,5 @@ index.html
 
 /.quarto/
 **/*.quarto_ipynbs
+
+**/*.quarto_ipynb

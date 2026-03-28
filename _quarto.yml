@@ -6,6 +6,8 @@ website:
   title: Maths Sheets
   repo-url: https://github.com/matthewhillary/maths-sheets
   repo-actions: [source]
+  page-footer: 
+    left: "[← Back to Home](index.qmd)"
 
 format:
   html:
