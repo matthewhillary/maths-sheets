@@ -4,5 +4,7 @@ _site/
 .DS_Store
 .Rproj.user/
 
+index.html
+
 /.quarto/
 **/*.quarto_ipynbs
